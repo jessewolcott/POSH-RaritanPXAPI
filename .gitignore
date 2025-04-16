@@ -1,0 +1,11 @@
+# Ignore all folders named Credentials
+Credentials/
+
+# Ignore all folders named Logs
+Logs/
+
+# Ignore all .txt files
+*.txt
+
+# Ignore my testing / working file
+scratchpad*.ps1
